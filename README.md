@@ -6,7 +6,7 @@ Search for books, browse latest listings, and see popular picks — all from you
 
 ## Download
 
-**[HaiBar-1.1.0.dmg](https://github.com/alvarlaigna/haibar-releases/raw/main/releases/HaiBar-1.1.0.dmg)** (770 KB)
+**[HaiBar-1.1.3.dmg](https://github.com/alvarlaigna/haibar-releases/raw/main/releases/HaiBar-1.1.3.dmg)** (770 KB)
 
 Requires macOS 13+ (Ventura).
 
